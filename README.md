@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This is sample repository for Homework 1. We are testing inc function in the code in __init__.py file.
+This is sample repository for Homework 1. We are testing inc function in the code folder.
 
 ## Installation
 
