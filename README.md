@@ -7,7 +7,7 @@ This is sample repository for Homework 1. We are testing inc function in the cod
 
 ## Installation
 
-To install it, do the following - \n
+To install it, do the following - 
 
 from the command line (as root/sudo) - 
 python3 setup.py install
