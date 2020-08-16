@@ -17,5 +17,3 @@ We actively welcome your pull requests. They are the best way to propose changes
 5. Make sure your code linters.
 
 6. Issue that pull request!
-
-<a href="https://doi.org/10.5281/zenodo.3987288"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3987288.svg" alt="DOI"></a>
