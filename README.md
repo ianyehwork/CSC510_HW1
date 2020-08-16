@@ -20,4 +20,6 @@ This project has no other requirements. Built from scratch :)
 
 This project is under MIT License.
 
+[![Build Status](https://travis-ci.com/ianyehwork/CSC510_HW1.svg?branch=master)](https://travis-ci.com/ianyehwork/CSC510_HW1)
+
 <a href="https://doi.org/10.5281/zenodo.3987288"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3987288.svg" alt="DOI"></a>
