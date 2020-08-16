@@ -15,3 +15,7 @@ python3 setup.py install
 ## Requirements
 
 This project has no other requirements. Built from scratch :)
+
+## Lisence
+
+This project is under MIT Lisence.
