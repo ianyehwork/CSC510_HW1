@@ -14,6 +14,6 @@ We actively welcome your pull requests. They are the best way to propose changes
 
 4. Ensure the test suite passes.
 
-5. Make sure your code lints.
+5. Make sure your code linters.
 
 6. Issue that pull request!
