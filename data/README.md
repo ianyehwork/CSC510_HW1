@@ -7,6 +7,6 @@
 5. Information about funding sources that supported the collection of the data
 ### SHARING/ACCESS INFORMATION
 ### DATA & FILE OVERVIEW
-1. List of the files in the dataset
+List of the files in the dataset
 ### METHODOLOGICAL INFORMATION
-1. Description of methods used for processing data
+Description of methods used for processing data
