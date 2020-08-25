@@ -3,7 +3,7 @@
 Avi Agrawal, Manvi Nagdev, Pushpendra Pathak, Ian Yeh, Mounika Bachu (2020, August 24)
 
 ```bibtex
-@article{varsha5595:seng-group-16-hw2,
+@article{ianyehwork:CSC_510_HW1,
   DOI       = {10.5281/zenodo.3987288}, 
   author    = {Avi Agrawal, Manvi Nagdev, Pushpendra Pathak, Ian Yeh, Mounika Bachu }, 
   publisher = {Zenodo}, 
