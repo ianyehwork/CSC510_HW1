@@ -17,3 +17,5 @@ We actively welcome your pull requests. They are the best way to propose changes
 5. Make sure your code linters.
 
 6. Issue that pull request!
+
+7. Give proper credit to the contributors.
